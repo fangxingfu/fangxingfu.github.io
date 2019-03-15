@@ -1,1 +1,3 @@
-## Welcome to FangXingFu's Page
+[Welcome to My Page](www.fangxingfu.cn)
+
+Powered by `Hugo`
